@@ -66,6 +66,44 @@
     "url": "/api/2014/subraces/high-elf"
   },
   {
+    "index": "wood-elf",
+    "name": "Elfe sylvestre",
+    "race": {
+      "index": "elf",
+      "name": "Elf",
+      "url": "/api/2014/races/elf"
+    },
+    "desc": "",
+    "ability_bonuses": [
+      {
+        "ability_score": {
+          "index": "wis",
+          "name": "WIS",
+          "url": "/api/2014/ability-scores/wis"
+        },
+        "bonus": 1
+      }
+    ],
+    "racial_traits": [
+      {
+        "index": "elf-weapon-training",
+        "name": "Elf Weapon Training",
+        "url": "/api/2014/traits/elf-weapon-training"
+      },
+      {
+        "index": "fleet-of-foot",
+        "name": "Pied léger",
+        "url": "/api/2014/traits/fleet-of-foot"
+      },
+      {
+        "index": "mask-of-the-wild",
+        "name": "Cachette naturelle",
+        "url": "/api/2014/traits/mask-of-the-wild"
+      }
+    ],
+    "url": "/api/2014/subraces/wood-elf"
+  },
+  {
     "index": "lightfoot-halfling",
     "name": "Lightfoot Halfling",
     "race": {

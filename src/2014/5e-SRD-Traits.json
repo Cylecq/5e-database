@@ -69,9 +69,7 @@
     ],
     "subraces": [],
     "name": "Dwarven Combat Training",
-    "desc": [
-      "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
-    ],
+    "desc": ["You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."],
     "proficiencies": [
       {
         "index": "battleaxes",
@@ -248,12 +246,15 @@
         "index": "high-elf",
         "name": "High Elf",
         "url": "/api/2014/subraces/high-elf"
+      },
+      {
+        "index": "wood-elf",
+        "name": "Elfe sylvestre",
+        "url": "/api/2014/subraces/wood-elf"
       }
     ],
     "name": "Elf Weapon Training",
-    "desc": [
-      "You have proficiency with the longsword, shortsword, shortbow, and longbow."
-    ],
+    "desc": ["You have proficiency with the longsword, shortsword, shortbow, and longbow."],
     "proficiencies": [
       {
         "index": "longswords",
@@ -429,9 +430,7 @@
       }
     ],
     "name": "Extra Language",
-    "desc": [
-      "You can speak, read, and write one extra language of your choice."
-    ],
+    "desc": ["You can speak, read, and write one extra language of your choice."],
     "proficiencies": [],
     "language_options": {
       "choose": 1,
@@ -557,6 +556,38 @@
     "url": "/api/2014/traits/extra-language"
   },
   {
+    "index": "fleet-of-foot",
+    "races": [],
+    "subraces": [
+      {
+        "index": "wood-elf",
+        "name": "Elfe sylvestre",
+        "url": "/api/2014/subraces/wood-elf"
+      }
+    ],
+    "name": "Pied léger",
+    "desc": ["Votre vitesse de base passe à 1à mètres"],
+    "proficiencies": [],
+    "url": "/api/2014/traits/fleet-of-foot"
+  },
+  {
+    "index": "mask-of-the-wild",
+    "races": [],
+    "subraces": [
+      {
+        "index": "wood-elf",
+        "name": "Elfe sylvestre",
+        "url": "/api/2014/subraces/wood-elf"
+      }
+    ],
+    "name": "Cachette naturelle",
+    "desc": [
+      "Vous pouvez tenter de vous cacher même quand la visibilité n'est que légèrement réduite du fait des frondaisons, d'une forte pluie, de chutes de neige, d'une nappe de brume ou tout autre phénomène naturel"
+    ],
+    "proficiencies": [],
+    "url": "/api/2014/traits/mask-of-the-wild"
+  },
+  {
     "index": "lucky",
     "races": [
       {
@@ -599,9 +630,7 @@
     ],
     "subraces": [],
     "name": "Halfling Nimbleness",
-    "desc": [
-      "You can move through the space of any creature that is of a size larger than yours."
-    ],
+    "desc": ["You can move through the space of any creature that is of a size larger than yours."],
     "proficiencies": [],
     "url": "/api/2014/traits/halfling-nimbleness"
   },
@@ -1400,9 +1429,7 @@
     ],
     "subraces": [],
     "name": "Damage Resistance",
-    "desc": [
-      "You have resistance to the damage type associated with your draconic ancestry."
-    ],
+    "desc": ["You have resistance to the damage type associated with your draconic ancestry."],
     "proficiencies": [],
     "url": "/api/2014/traits/damage-resistance"
   },

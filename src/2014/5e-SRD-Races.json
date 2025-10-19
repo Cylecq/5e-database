@@ -1,7 +1,7 @@
 [
   {
     "index": "dwarf",
-    "name": "Dwarf",
+    "name": "Nain",
     "speed": 25,
     "ability_bonuses": [
       {
@@ -68,7 +68,7 @@
   },
   {
     "index": "elf",
-    "name": "Elf",
+    "name": "Elfe",
     "speed": 30,
     "ability_bonuses": [
       {
@@ -130,7 +130,7 @@
   },
   {
     "index": "halfling",
-    "name": "Halfling",
+    "name": "Halfelin",
     "speed": 25,
     "ability_bonuses": [
       {
@@ -187,7 +187,7 @@
   },
   {
     "index": "human",
-    "name": "Human",
+    "name": "Humain",
     "speed": 30,
     "ability_bonuses": [
       {
@@ -386,7 +386,7 @@
   },
   {
     "index": "dragonborn",
-    "name": "Dragonborn",
+    "name": "Drakéide",
     "speed": 30,
     "ability_bonuses": [
       {
@@ -497,7 +497,7 @@
   },
   {
     "index": "half-elf",
-    "name": "Half-Elf",
+    "name": "Demi-Elfe",
     "speed": 30,
     "ability_bonuses": [
       {
@@ -723,7 +723,7 @@
   },
   {
     "index": "half-orc",
-    "name": "Half-Orc",
+    "name": "Demi-Orque",
     "speed": 30,
     "ability_bonuses": [
       {
@@ -787,7 +787,7 @@
   },
   {
     "index": "tiefling",
-    "name": "Tiefling",
+    "name": "Tieffelin",
     "speed": 30,
     "ability_bonuses": [
       {
