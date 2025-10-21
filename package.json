@@ -1,7 +1,7 @@
 {
-  "name": "5e-database",
-  "version": "4.1.0",
-  "description": "Database for 5e-srd-api",
+  "name": "Cylecq/5e-database",
+  "version": "1.0.0",
+  "description": "Fork from 5e-bits/5e-srd-api. French traduction with rules from DnD Player Handbook 2014. FOR PRIVATE USE ONLY",
   "private": true,
   "engines": {
     "node": "22.x"
@@ -16,14 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/5e-bits/5e-database.git"
+    "url": "git+https://github.com/Cylecq/5e-database.git"
   },
-  "author": "",
+  "author": "Cyril Leclercq (leclercq.cyril06@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/5e-bits/5e-database/issues"
+    "url": "https://github.com/Cylecq/5e-database/issues"
   },
-  "homepage": "https://github.com/5e-bits/5e-database#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
